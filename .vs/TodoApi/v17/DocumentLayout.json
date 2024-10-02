@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|c:\\users\\wlbfj\\source\\repos\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|c:\\users\\wlbfj\\source\\repos\\todoapi\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|c:\\users\\wlbfj\\source\\repos\\todoapi\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|c:\\users\\wlbfj\\source\\repos\\todoapi\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|c:\\users\\wlbfj\\source\\repos\\todoapi\\todoapi\\models\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|c:\\users\\wlbfj\\source\\repos\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|c:\\users\\wlbfj\\source\\repos\\todoapi\\todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 171,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoApi.http",
+              "DocumentMoniker": "C:\\Users\\wlbfj\\source\\repos\\TodoApi\\TodoApi\\TodoApi.http",
+              "RelativeDocumentMoniker": "TodoApi\\TodoApi.http",
+              "ToolTip": "C:\\Users\\wlbfj\\source\\repos\\TodoApi\\TodoApi\\TodoApi.http",
+              "RelativeToolTip": "TodoApi\\TodoApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-02T12:22:20.153Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,46 +57,46 @@
               "RelativeDocumentMoniker": "TodoApi\\Controllers\\TodoItemsController.cs",
               "ToolTip": "C:\\Users\\wlbfj\\source\\repos\\TodoApi\\TodoApi\\Controllers\\TodoItemsController.cs",
               "RelativeToolTip": "TodoApi\\Controllers\\TodoItemsController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T12:08:23.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "TodoItemDTO.cs",
               "DocumentMoniker": "C:\\Users\\wlbfj\\source\\repos\\TodoApi\\TodoApi\\Models\\TodoItemDTO.cs",
               "RelativeDocumentMoniker": "TodoApi\\Models\\TodoItemDTO.cs",
               "ToolTip": "C:\\Users\\wlbfj\\source\\repos\\TodoApi\\TodoApi\\Models\\TodoItemDTO.cs",
               "RelativeToolTip": "TodoApi\\Models\\TodoItemDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T11:49:16.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\wlbfj\\source\\repos\\TodoApi\\TodoApi\\Program.cs",
               "RelativeDocumentMoniker": "TodoApi\\Program.cs",
               "ToolTip": "C:\\Users\\wlbfj\\source\\repos\\TodoApi\\TodoApi\\Program.cs",
               "RelativeToolTip": "TodoApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T10:56:40.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "TodoContext.cs",
               "DocumentMoniker": "C:\\Users\\wlbfj\\source\\repos\\TodoApi\\TodoApi\\Models\\TodoContext.cs",
               "RelativeDocumentMoniker": "TodoApi\\Models\\TodoContext.cs",
               "ToolTip": "C:\\Users\\wlbfj\\source\\repos\\TodoApi\\TodoApi\\Models\\TodoContext.cs",
               "RelativeToolTip": "TodoApi\\Models\\TodoContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T10:52:16.999Z",
               "EditorCaption": ""
@@ -92,7 +109,7 @@
               "RelativeDocumentMoniker": "TodoApi\\Models\\TodoItem.cs",
               "ToolTip": "C:\\Users\\wlbfj\\source\\repos\\TodoApi\\TodoApi\\Models\\TodoItem.cs",
               "RelativeToolTip": "TodoApi\\Models\\TodoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T10:50:21.833Z",
               "EditorCaption": ""

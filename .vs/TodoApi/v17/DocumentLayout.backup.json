@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\wlbfj\\source\\repos\\TodoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|c:\\users\\wlbfj\\source\\repos\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|c:\\users\\wlbfj\\source\\repos\\todoapi\\todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|c:\\users\\wlbfj\\source\\repos\\todoapi\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|c:\\users\\wlbfj\\source\\repos\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D8BCEBD-938E-439D-AA61-34C13AD6A549}|TodoApi\\TodoApi.csproj|c:\\users\\wlbfj\\source\\repos\\todoapi\\todoapi\\models\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 171,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TodoItemsController.cs",
               "DocumentMoniker": "C:\\Users\\wlbfj\\source\\repos\\TodoApi\\TodoApi\\Controllers\\TodoItemsController.cs",
               "RelativeDocumentMoniker": "TodoApi\\Controllers\\TodoItemsController.cs",
               "ToolTip": "C:\\Users\\wlbfj\\source\\repos\\TodoApi\\TodoApi\\Controllers\\TodoItemsController.cs",
               "RelativeToolTip": "TodoApi\\Controllers\\TodoItemsController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T12:08:23.81Z",
               "EditorCaption": ""
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\wlbfj\\source\\repos\\TodoApi\\TodoApi\\Program.cs",
               "RelativeDocumentMoniker": "TodoApi\\Program.cs",
@@ -73,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "TodoContext.cs",
               "DocumentMoniker": "C:\\Users\\wlbfj\\source\\repos\\TodoApi\\TodoApi\\Models\\TodoContext.cs",
               "RelativeDocumentMoniker": "TodoApi\\Models\\TodoContext.cs",
@@ -86,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "C:\\Users\\wlbfj\\source\\repos\\TodoApi\\TodoApi\\Models\\TodoItem.cs",
               "RelativeDocumentMoniker": "TodoApi\\Models\\TodoItem.cs",
               "ToolTip": "C:\\Users\\wlbfj\\source\\repos\\TodoApi\\TodoApi\\Models\\TodoItem.cs",
               "RelativeToolTip": "TodoApi\\Models\\TodoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T10:50:21.833Z",
               "EditorCaption": ""
